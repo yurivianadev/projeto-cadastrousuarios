@@ -12,7 +12,6 @@ Este projeto é uma aplicação Full Stack com **frontend em React** e **backend
 - CSS
 - Vite
 
-### 🟢 Backend
 
 ### 🟢 Backend
 - Node.js
